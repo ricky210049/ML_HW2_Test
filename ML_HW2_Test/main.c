@@ -1,6 +1,8 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+
 
 double sigmoid(double);//sigmoid
 double sigmoid_diff(double);//sigmoid¹ïz°µ·L¤À
